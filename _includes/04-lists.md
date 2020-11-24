@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+I like :thumbsup:
+- Reading Tech Writing Material
+- Networking with people
+- Yoga
+- Gardening
